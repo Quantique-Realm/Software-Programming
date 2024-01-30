@@ -4,3 +4,9 @@ The Code of the website is for the currency converter website.It Gives you three
 
 Instructions to run the project:
 Open the code in VS code and use live server to run the code.It will open a website in Chrome browser.
+<br>
+![Screenshot 2024-01-30 222805](https://github.com/Quantique-Realm/Software-Programming/assets/75321824/eb80db5c-0ddb-4b5c-ae83-3628fa47b62e)
+</br>
+<br>
+![Screenshot 2024-01-30 223624](https://github.com/Quantique-Realm/Software-Programming/assets/75321824/3d92c371-daf8-4572-a1ea-29d132deb4f4)
+</br>
